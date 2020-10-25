@@ -1,2 +1,2 @@
 # File-organizer
-From a folder full of images, this program deletes all the images that I don't want in there.
+Using Imagecyborg, I download the latest One Piece chapters from https://w11.read-onepiece.com/. This downloads all the images on the site, including unwanted images, such as logos, banners and more. 
