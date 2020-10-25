@@ -1,2 +1,2 @@
 # File-organizer
-Reduces of all images I downloaded to the ones I want to keep
+From a folder full of images, this program deletes all the images that I don't want in there.
